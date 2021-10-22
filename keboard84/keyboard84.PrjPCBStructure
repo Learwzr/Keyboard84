@@ -1,0 +1,3 @@
+Record=TopLevelDocument|FileName=keyboard84.SchDoc
+Record=SheetSymbol|SourceDocument=keyboard84.SchDoc|Designator=U_key|SchDesignator=U_key|FileName=key.SchDoc|SymbolType=Normal|RawFileName=key.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=keyboard84.SchDoc|Designator=U_LED|SchDesignator=U_LED|FileName=LED.SchDoc|SymbolType=Normal|RawFileName=LED.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
